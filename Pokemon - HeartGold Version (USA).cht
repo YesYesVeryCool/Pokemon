@@ -1,0 +1,29 @@
+cheats = 7
+
+cheat0_desc = "EXP x2"
+cheat0_code = "02000000 000000C8\n621D1584 00000000\nB21D1584 00000000\n2002E188 00000002\nD0000000 00000000"
+cheat0_enable = false
+
+cheat1_desc = "EXP x4"
+cheat1_code = "02000000 000000C8\n621D1584 00000000\nB21D1584 00000000\n2002E188 00000004\nD0000000 00000000"
+cheat1_enable = true
+
+cheat2_desc = "EXP x8"
+cheat2_code = "02000000 000000C8\n621D1584 00000000\nB21D1584 00000000\n2002E188 00000008\nD0000000 00000000"
+cheat2_enable = false
+
+cheat3_desc = "Max Money"
+cheat3_code = "021D15C4 0098967F"
+cheat3_enable = false
+
+cheat4_desc = "Walk Through Walls"
+cheat4_code = "921D6F84 00002101\n121D6F86 000046C0\nD2000000 00000000"
+cheat4_enable = false
+
+cheat5_desc = "100% Catch Rate"
+cheat5_code = "9223B5FA 00002101\n1223B5FA 000046C0\nD2000000 00000000"
+cheat5_enable = false
+
+cheat6_desc = "Rare Candy x999 (Slot 1)"
+cheat6_code = "020F46D4 003B9C9B\n020F46D8 003B9C9B"
+cheat6_enable = false
